@@ -14,7 +14,7 @@ This repository contains a clone of the website "Magma," recreated using HTML, C
 
 **Usage:**
 
-1. Clone the repository: `git clone https://github.com/your-username/magma-website-clone.git`
+1. Clone the repository: `git clone https://github.com/mukulpythondev/Magma-Clone/`
 2. Navigate to the project folder: `cd magma-website-clone`
 3. Open the `index.html` file in a web browser to explore the cloned website.
 4. Interact with various sections, observe animations, and experience the dynamic elements.
